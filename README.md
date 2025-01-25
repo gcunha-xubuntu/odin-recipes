@@ -1,1 +1,3 @@
 # odin-recipes
+
+This project helped me, gcunha-xubuntu, learn better about the skills, techniques and basic competencies of a web developer. With the help of HTML to place titles, paragraphs, images, ordered and unordered lists on my website, I was able to learn how to primarily structure my web pages. Using Git taught me how to control my files, not only for myself, but also for the team of developers working with me.
